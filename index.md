@@ -4,7 +4,7 @@ title: FrostyNick
 
 <!--
 
-# work on: todo!("") implement!("")
+# work on: todo!("") implement!("") git push and public sticker ball reveal
 # update html; 2nd tab
 cd ~/Documents/projects/website2022/ && ./main.sh
 
@@ -29,13 +29,13 @@ http://[::1]:8000/
 
 <!---->
 
-<nav><div> [#Home](#home) | [#Projects](#projects) | [#About](#about) | [#Gallary](#gallary) </div></nav>
+<nav><div> [#Home](#home) | [#About](#about) | [#Projects](#projects) | [#Gallary](#gallary) </div></nav>
 
 <!---->
 <article>
 
 
-<p class="no-css">Note: This page is missing `CSS` files. Maybe try reloading your browser.</p> 
+<p class="no-css">Note: This page is missing `CSS` files. Maybe try reloading your browser. Or unzip the zip file!</p> 
 
 [Nicholas 404 Bogucki](my social security number){style="font-size: 170%; padding: 0;"}
 
@@ -77,8 +77,6 @@ This is work in project.<!-- todo!(""); -->
 🇮🇳 
 🇯🇵 
 🇧🇩 
-<!-- 🏳️ 🇰🇷 🇮🇳🇯🇵🇧🇩-->
-🇧🇩 
 🇨🇦 
 🇨🇴 
 🇨🇾 
@@ -96,13 +94,13 @@ This is work in project.<!-- todo!(""); -->
 
 Favorite drink: H~2~O
 
-Best game ^[needs citation]: Rowblawks
+Best game ^[needs citation]: ~~Rowblawks~~ Minerock Bug Craft Edition
 
-| Trump | Biden| Sus  |  Not sus  |<!-- todo!("Don't mention trump + biden"); -->
-|------:|:-----|---------|:------:|
-|   12  |  12  |    12   |    12  |
-| 123456 | 1<wbr>23456 | 123 | 123| <!-- On one webiste, <wbr> created ... inside of a preview link. -->
-|    1  |    1 |     1   |     1  |
+| Game       | Playtime(hrs)| Regret  |  is sus  |
+|:-----------|-------------|---------|:------:|
+| Minecraft  |  700+       |    0    |    No  |
+| Rowblawks  | 1<wbr>23456 | ~30%    |  Yes   | <!-- On one webiste, <wbr> created ... inside of a preview link. -->
+| Sticker-craft  | 0 | N/A    |  N/A   | 
 
 
 # Projects
@@ -111,28 +109,28 @@ Planning to eat some breakfast.
 
 # Ideas
 
+<!-- 8 spaces turns into a tab in nvim for some reason :hmm: -->
 - For this website:
-	- Needs to look better.
-		- fade in animation
-		- ~~darkmodeisbetter.css~~
-		- vvv Below probably won't be added. vvv
-		- Support light mode. Add toggle too.
-		- I just learned that [Hugo framework](https://github.com/gohugoio/hugo#overview) exists. <!-- It's seems like it has my idea of at least using markdown and css, but it's an actual framework! With Go and them saying it's made to be fast, I will assume it's faster than pandoc markdown that's written in Haskel. But at the same time.. does parsing take so much time? Time will probably be negligable with the amount of time it takes to make a file and write data. Also, using a tool made for markdown conversion specifically feels more skilled for some reason. -->
-	- Learn something? Add it HERE!
-	- Favorite websites, apps, interests, so on.
-	- Blog (nah actually do yt instead?)
+    - Needs to look better.
+	- fade in animation
+	- ~~darkmodeisbetter.css~~
+	- vvv Below probably won't be added. vvv
+	- Support light mode. Add toggle too.
+    - I just learned that [Hugo framework](https://github.com/gohugoio/hugo#overview) exists. <!-- It's seems like it has my idea of at least using markdown and css, but it's an actual framework! With Go and them saying it's made to be fast, I will assume it's faster than pandoc markdown that's written in Haskel. But at the same time.. does parsing take so much time? Time will probably be negligable with the amount of time it takes to make a file and write data. Also, using a tool made for markdown conversion specifically feels more skilled for some reason. -->
+    - Learn something? Add it HERE!
+    - Favorite websites, apps, interests, so on.
+    - Blog (nah actually do yt instead?)
+    - Gallery:
+	- [Sticker Ball](subway)
     - [ Magnificent lilipad ]
     - Git and GitHub and GitLab and Git Server and Git Chill and Git to work.
     - \+ Git Integration + Git is love git is life
 	- ~~Pandoc + other tools and stuff it in a shell script for easy + concise modifications.~~
-    - ~~Build git and your sex life using Rust.~~ no
-    - Sticker Ball
 - Yes.
-- So hot.
 - To Do additionally with Projects
 - Projects from github/resume. <!-- todo!(""); -->
 
-# Sus <!--{#spoon}--> <!-- todo!("add hidden part of website for the VIP. Also #spoon broke."); -->
+# Gallary <!--{#spoon}--> <!-- todo!("add hidden part of website for the VIP. Also #spoon broke."); -->
 
 Stay tuned!
 
