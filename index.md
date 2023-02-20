@@ -1,15 +1,18 @@
 ---
 title: FrostyNick
+header-includes: <script>console.log("test");</script>
 ---
 
 <!--
 
+cd ~/p/website2022/ && ./main.sh
+
+cd ~/p/website2022/ && ./main.sh serve
+cd ~/p/website2022/ && ./main.sh auto
+
 # work on: todo!("") implement!("") git push and public sticker ball reveal
 # update html; 2nd tab
-cd ~/Documents/projects/website2022/ && ./main.sh
-
-cd ~/Documents/projects/website2022/ && ./main.sh serve
-cd ~/Documents/projects/website2022/ && ./main.sh auto
+# work on tutorial too
 
 # npm installed! 3nd tab. would be nice to have `main.sh auto` launch and close live-server automatically.. not yet (learn: bg stuff in sh file) (probably solution: https://unix.stackexchange.com/a/153372 )
 live-server
@@ -17,8 +20,9 @@ live-server
 # if live-server isn't working, did it save to html? and is it on localhost?
 
 previews:
-file:///home/nicholas/Documents/projects/website2022/index.html
+file:///home/nicholas/p/website2022/index.html
 http://[::1]:8000/
+brave-browser --app=http://127.0.0.1:8080/
 -->
 
 
@@ -29,7 +33,7 @@ http://[::1]:8000/
 
 <!---->
 
-<nav><div> [#Home](#home) | [#About](#about) | [#Projects](#projects) | [#Gallary](#gallary) </div></nav>
+<nav><div> [#Home](#home) | [#About](#about) | [#Projects](#projects) | [#Gallery](#gallery) </div></nav>
 
 <!---->
 <article>
@@ -45,16 +49,18 @@ You arrived on the early access website. 👀 Expect chaos and some emotional da
 
 # Home <!-- todo!(""); -->
 
-This website was made with pandoc markdown and css.
+This website was made with Pandoc markdown and CSS.
 
  <!--  ![true survivial](https://www.publicdomainpictures.net/pictures/160000/velka/eclairs-foudre-et-nuages-sombres.jpg)  {style="position: absolute; right: 1em"}  {style="max-width: 10%" name="this"} -->
 
 # About
 
-Computer Science student interested in: <!-- (insert resune stuff) -->
+Computer Science student interested in: <!-- (insert resume stuff) -->
 
-- Cybersecurity
-- This list is incomplete.<!-- todo!(""); -->
+- Cyber security
+- Termux
+- Linux CLI and Desktop
+- This list is incomplete.<!-- todo!(""); private ingredients list: https://docs.google.com/document/d/1uBbbwOwbDt177oy4te9U8uMf0F0oticDXSb0a2E3f6c/edit -->
 
 
 ### Thunderstorm image info
@@ -65,7 +71,7 @@ From [this search](https://duckduckgo.com/?q=public+domain+lightning&iar=images&
 
 ### Quotes<!-- todo!("Could look better + not many quotes + shouldn't this be in my favorite stuff?"); -->
 
-> <p class="burn">If you were on fire, I'd roast marshmellows over you.</p>  
+> <p class="burn">If you were on fire, I'd roast marshmallows over you.</p>  
 
 <!-- > > > > > > sus -->
 
@@ -102,9 +108,9 @@ Best game ^[needs citation]: ~~Rowblawks~~ Minerock Bug Craft Edition
 
 | Game       | Playtime(hrs)| Regret  |  is sus  |
 |:-----------|-------------|---------|:------:|
-| Minecraft  |  700+       |    0    |    No  |
+| Minerock   |  700+       |    0    |    No  |
 | Rowblawks  | 1<wbr>23456 | ~30%    |  Yes   | <!-- On one webiste, <wbr> created ... inside of a preview link. -->
-| Sticker-craft  | 0 | N/A    |  N/A   | 
+| Sticker-craft  | 0 | N/A    |  N/A   | <!-- it's a game idea.. onto my 10000 other ideas -->
 
 
 # Projects
@@ -114,27 +120,28 @@ Planning to eat some breakfast.
 # Ideas
 
 <!-- 8 spaces turns into a tab in nvim for some reason :hmm: -->
+- Remove ideas page. Add projects from "ingredients".
 - For this website:
     - Needs to look better.
-	- fade in animation
-	- ~~darkmodeisbetter.css~~
-	- vvv Below probably won't be added. vvv
-	- Support light mode. Add toggle too.
-    - I just learned that [Hugo framework](https://github.com/gohugoio/hugo#overview) exists. <!-- It's seems like it has my idea of at least using markdown and css, but it's an actual framework! With Go and them saying it's made to be fast, I will assume it's faster than pandoc markdown that's written in Haskel. But at the same time.. does parsing take so much time? Time will probably be negligable with the amount of time it takes to make a file and write data. Also, using a tool made for markdown conversion specifically feels more skilled for some reason. -->
+        - fade in animation
+        - vvv Below probably won't be added. vvv
+        - Support light mode. Add toggle too.
+    - I just learned that [Hugo framework](https://github.com/gohugoio/hugo#overview) exists. But first, learn more about website deployment to the web first. <!-- It's seems like it has my idea of at least using markdown and css, but it's an actual framework! With Go and them saying it's made to be fast, I will assume it's faster than pandoc markdown that's written in Haskel. But at the same time.. does parsing take so much time? Time will probably be negligable with the amount of time it takes to make a file and write data. Also, using a tool made for markdown conversion specifically feels more skilled for some reason. -->
+    - "Leaflet" of places I've visited.
     - Learn something? Add it HERE!
     - Favorite websites, apps, interests, so on.
     - Blog (nah actually do yt instead?)
     - Gallery:
-	- [Sticker Ball](subway)
+        - [Sticker Ball](subway)
     - [ Magnificent lilipad ]
     - Git and GitHub and GitLab and Git Server and Git Chill and Git to work.
     - \+ Git Integration + Git is love git is life
-	- ~~Pandoc + other tools and stuff it in a shell script for easy + concise modifications.~~
+        - ~~Pandoc + other tools and stuff it in a shell script for easy + concise modifications.~~
 - Yes.
-- To Do additionally with Projects
-- Projects from github/resume. <!-- todo!(""); -->
+- To Do additionally with projects
+- Projects from GitHub/resume. <!-- todo!(""); -->
 
-# Gallary <!--{#spoon}--> <!-- todo!("add hidden part of website for the VIP. Also #spoon broke."); -->
+# Gallery <!--{#spoon}--> <!-- todo!("add hidden part of website for the VIP. Also #spoon broke."); -->
 
 Stay tuned!
 
@@ -143,7 +150,8 @@ Stay tuned!
 
 (@) There are no typos here. It's physically impossible.
 (@) Spoons aren't real. It's all CGI.
-
+(@) The social media links below don't work yet unless I forgot to change this messsage. 
+<!-- todo!("") -->
 
 <!-- Thanks to https://icons8.com/icon/set/social%20media/sf-regular -->
 
@@ -178,12 +186,12 @@ viewBox="0 0 64 64">
 
 <!-- todo!("remove some of this it's bloat here");
 more todo!("see below");
-- make a blog. this is already in markdown!
+- (actually skip this cuz this will take time) make a blog. this is already in markdown!
 - sidebar w/ social media icons
 
 
-cool websites:	https://bugswriter.com/ and remember the lilipad thingy?
-fun fact:	#0f08 is a thing -->
+cool websites:<tab>https://bugswriter.com/ and remember the lilipad thingy?
+fun fact:<tab>#0f08 is a thing -->
 <!-- might del l8r:
 https://twitter.com/KosinerSky/status/1615258485830324224?cxt=HHwWgMDQxZ3CxuosAAAA
 https://twitter.com/ThePrimeagen/status/1615032930895826946?s=20&t=_NU3avUaQ0FnWhXiiOtnzQ-->

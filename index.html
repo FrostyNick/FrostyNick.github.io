@@ -9,12 +9,14 @@
   <body>
 	<!--
 
+cd ~/p/website2022/ && ./main.sh
+
+cd ~/p/website2022/ && ./main.sh serve
+cd ~/p/website2022/ && ./main.sh auto
+
 # work on: todo!("") implement!("") git push and public sticker ball reveal
 # update html; 2nd tab
-cd ~/Documents/projects/website2022/ && ./main.sh
-
-cd ~/Documents/projects/website2022/ && ./main.sh serve
-cd ~/Documents/projects/website2022/ && ./main.sh auto
+# work on tutorial too
 
 # npm installed! 3nd tab. would be nice to have `main.sh auto` launch and close live-server automatically.. not yet (learn: bg stuff in sh file) (probably solution: https://unix.stackexchange.com/a/153372 )
 live-server
@@ -22,14 +24,15 @@ live-server
 # if live-server isn't working, did it save to html? and is it on localhost?
 
 previews:
-file:///home/nicholas/Documents/projects/website2022/index.html
+file:///home/nicholas/p/website2022/index.html
 http://[::1]:8000/
+brave-browser --app=http://127.0.0.1:8080/
 -->
 <!---->
 <nav>
 <div>
 <a href="#home">#Home</a> | <a href="#about">#About</a> | <a
-href="#projects">#Projects</a> | <a href="#gallary">#Gallary</a>
+href="#projects">#Projects</a> | <a href="#gallery">#Gallery</a>
 </div>
 </nav>
 <!---->
@@ -44,14 +47,17 @@ Bogucki</a></p>
 <p>You arrived on the early access website. 👀 Expect chaos and some
 emotional damage. 🔥</p>
 <h1 id="home">Home <!-- todo!(""); --></h1>
-<p>This website was made with pandoc markdown and css.</p>
+<p>This website was made with Pandoc markdown and CSS.</p>
 <p><!--  ![true survivial](https://www.publicdomainpictures.net/pictures/160000/velka/eclairs-foudre-et-nuages-sombres.jpg)  {style="position: absolute; right: 1em"}  {style="max-width: 10%" name="this"} --></p>
 <h1 id="about">About</h1>
 <p>Computer Science student interested in:
-<!-- (insert resune stuff) --></p>
+<!-- (insert resume stuff) --></p>
 <ul>
-<li>Cybersecurity</li>
-<li>This list is incomplete.<!-- todo!(""); --></li>
+<li>Cyber security</li>
+<li>Termux</li>
+<li>Linux CLI and Desktop</li>
+<li>This list is
+incomplete.<!-- todo!(""); private ingredients list: https://docs.google.com/document/d/1uBbbwOwbDt177oy4te9U8uMf0F0oticDXSb0a2E3f6c/edit --></li>
 </ul>
 <h3 id="thunderstorm-image-info">Thunderstorm image info</h3>
 <p><cite>Needs cite from <a
@@ -63,7 +69,7 @@ search</a></p>
 id="quotes">Quotes<!-- todo!("Could look better + not many quotes + shouldn't this be in my favorite stuff?"); --></h3>
 <blockquote>
 <p class="burn">
-If you were on fire, I’d roast marshmellows over you.
+If you were on fire, I’d roast marshmallows over you.
 </p>
 </blockquote>
 <!-- > > > > > > sus -->
@@ -88,7 +94,7 @@ Craft Edition</p>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Minecraft</td>
+<td style="text-align: left;">Minerock</td>
 <td>700+</td>
 <td>0</td>
 <td style="text-align: center;">No</td>
@@ -112,40 +118,49 @@ Craft Edition</p>
 <h1 id="ideas">Ideas</h1>
 <!-- 8 spaces turns into a tab in nvim for some reason :hmm: -->
 <ul>
+<li>Remove ideas page. Add projects from “ingredients”.</li>
 <li>For this website:
 <ul>
-<li>Needs to look better.</li>
+<li>Needs to look better.
+<ul>
 <li>fade in animation</li>
-<li><del>darkmodeisbetter.css</del></li>
 <li>vvv Below probably won’t be added. vvv</li>
 <li>Support light mode. Add toggle too.</li>
+</ul></li>
 <li>I just learned that <a
 href="https://github.com/gohugoio/hugo#overview">Hugo framework</a>
-exists.
+exists. But first, learn more about website deployment to the web first.
 <!-- It's seems like it has my idea of at least using markdown and css, but it's an actual framework! With Go and them saying it's made to be fast, I will assume it's faster than pandoc markdown that's written in Haskel. But at the same time.. does parsing take so much time? Time will probably be negligable with the amount of time it takes to make a file and write data. Also, using a tool made for markdown conversion specifically feels more skilled for some reason. --></li>
+<li>“Leaflet” of places I’ve visited.</li>
 <li>Learn something? Add it HERE!</li>
 <li>Favorite websites, apps, interests, so on.</li>
 <li>Blog (nah actually do yt instead?)</li>
-<li>Gallery:</li>
+<li>Gallery:
+<ul>
 <li><a href="subway">Sticker Ball</a></li>
+</ul></li>
 <li>[ Magnificent lilipad ]</li>
 <li>Git and GitHub and GitLab and Git Server and Git Chill and Git to
 work.</li>
-<li>+ Git Integration + Git is love git is life</li>
+<li>+ Git Integration + Git is love git is life
+<ul>
 <li><del>Pandoc + other tools and stuff it in a shell script for easy +
 concise modifications.</del></li>
 </ul></li>
+</ul></li>
 <li>Yes.</li>
-<li>To Do additionally with Projects</li>
-<li>Projects from github/resume. <!-- todo!(""); --></li>
+<li>To Do additionally with projects</li>
+<li>Projects from GitHub/resume. <!-- todo!(""); --></li>
 </ul>
-<h1 id="gallary">Gallary <!--{#spoon}-->
+<h1 id="gallery">Gallery <!--{#spoon}-->
 <!-- todo!("add hidden part of website for the VIP. Also #spoon broke."); --></h1>
 <p>Stay tuned!</p>
 <h2 id="addressing-the-rumors">Addressing the rumors</h2>
 <ol class="example" type="1">
 <li>There are no typos here. It’s physically impossible.</li>
 <li>Spoons aren’t real. It’s all CGI.</li>
+<li>The social media links below don’t work yet unless I forgot to
+change this messsage. <!-- todo!("") --></li>
 </ol>
 <!-- Thanks to https://icons8.com/icon/set/social%20media/sf-regular -->
 <!-- YT -->
@@ -167,12 +182,12 @@ concise modifications.</del></li>
 </article>
 <!-- todo!("remove some of this it's bloat here");
 more todo!("see below");
-- make a blog. this is already in markdown!
+- (actually skip this cuz this will take time) make a blog. this is already in markdown!
 - sidebar w/ social media icons
 
 
-cool websites:  https://bugswriter.com/ and remember the lilipad thingy?
-fun fact:   #0f08 is a thing -->
+cool websites:<tab>https://bugswriter.com/ and remember the lilipad thingy?
+fun fact:<tab>#0f08 is a thing -->
 <!-- might del l8r:
 https://twitter.com/KosinerSky/status/1615258485830324224?cxt=HHwWgMDQxZ3CxuosAAAA
 https://twitter.com/ThePrimeagen/status/1615032930895826946?s=20&t=_NU3avUaQ0FnWhXiiOtnzQ-->
