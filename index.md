@@ -37,7 +37,11 @@ http://[::1]:8000/
 
 <p class="no-css">Note: This page is missing `CSS` files. Maybe try reloading your browser. Or unzip the zip file!</p> 
 
-[Nicholas 404 Bogucki](my social security number){style="font-size: 170%; padding: 0;"}
+
+[Nicholas **404** Bogucki](not my social security number){style="font-size: 170%; padding: 0;"}
+
+
+You arrived on the early access website. 👀 Expect chaos and some emotional damage. 🔥
 
 # Home <!-- todo!(""); -->
 
