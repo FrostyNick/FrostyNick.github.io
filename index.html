@@ -8,23 +8,28 @@
 	  </head>
   <body>
 	<!--
-# update html
+
+# work on: todo!("") implement!("")
+# update html; 2nd tab
 cd ~/Documents/projects/website2022/ && ./main.sh
 
 cd ~/Documents/projects/website2022/ && ./main.sh serve
 cd ~/Documents/projects/website2022/ && ./main.sh auto
 
+# npm installed! 3nd tab. would be nice to have `main.sh auto` launch and close live-server automatically.. not yet (learn: bg stuff in sh file) (probably solution: https://unix.stackexchange.com/a/153372 )
+live-server
+
+# if live-server isn't working, did it save to html? and is it on localhost?
+
 previews:
 file:///home/nicholas/Documents/projects/website2022/index.html
-http://[::1]:8000/  # only thing is left is file detection to automatically update 👀
+http://[::1]:8000/
 -->
 <!---->
 <nav>
 <div>
-<a href="#home">#Home</a> | <a href="#projects"
-title="Yes plz click I give u cookie uwu">#Projects</a> | <a
-href="#about">#About</a> | <a href="#spoon" title="bad cutlery">#Spoon
-Tyranny</a>
+<a href="#home">#Home</a> | <a href="#projects">#Projects</a> | <a
+href="#about">#About</a> | <a href="#gallary">#Gallary</a>
 </div>
 </nav>
 <!---->
@@ -33,47 +38,32 @@ Tyranny</a>
 Note: This page is missing <code>CSS</code> files. Maybe try reloading
 your browser.
 </p>
+<p><a href="my%20social%20security%20number"
+style="font-size: 170%; padding: 0;">Nicholas 404 Bogucki</a></p>
 <h1 id="home">Home <!-- todo!(""); --></h1>
 <p>This website was made with pandoc markdown and css.</p>
 <p><!--  ![true survivial](https://www.publicdomainpictures.net/pictures/160000/velka/eclairs-foudre-et-nuages-sombres.jpg)  {style="position: absolute; right: 1em"}  {style="max-width: 10%" name="this"} --></p>
 <h1 id="about">About</h1>
-<p><del>I’m about to eat more breakfast.</del>
-<!-- todo!("wrong location"); --> I just finished eating breakfast.</p>
-<p>Getting ready for lunch.</p>
+<p>Computer Science student interested in:
+<!-- (insert resune stuff) --></p>
+<ul>
+<li>Cybersecurity</li>
+<li>This list is incomplete.<!-- todo!(""); --></li>
+</ul>
 <h3 id="thunderstorm-image-info">Thunderstorm image info</h3>
 <p><cite>Needs cite from <a
 href="https://www.publicdomainpictures.net/en/view-image.php?image=150817&amp;picture=&amp;jazyk=FR">here</a></cite>
 From <a
 href="https://duckduckgo.com/?q=public+domain+lightning&amp;iar=images&amp;iaf=license%3APublic&amp;iax=images&amp;ia=images&amp;iai=http%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F160000%2Fvelka%2Feclairs-foudre-et-nuages-sombres.jpg">this
 search</a></p>
-<p>Picture is <strong>far</strong> from final.<!-- todo!(""); --></p>
 <h3
-id="quotes">Quotes<!-- todo!("Could look better + not many quotes"); --></h3>
+id="quotes">Quotes<!-- todo!("Could look better + not many quotes + shouldn't this be in my favorite stuff?"); --></h3>
 <blockquote>
 <p class="burn">
 If you were on fire, I’d roast marshmellows over you.
 </p>
 </blockquote>
-<blockquote>
-<p><a
-href="https://twitter.com/ThePrimeagen/status/1612817303183446016">“Discipline
-= freedom”</a> - <span class="citation"
-data-cites="ThePrimeagen">@ThePrimeagen</span> on Twitter
-<!-- implement!("Author name should be seperate in css"); --></p>
-</blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<blockquote>
-<p>sus</p>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
+<!-- > > > > > > sus -->
 <h3 id="my-favorite-stuff"><em>my favorite stuff</em></h3>
 <p>This is work in project.<!-- todo!(""); --></p>
 <p><a href="https://emojipedia.org/flags/"
@@ -123,16 +113,12 @@ role="doc-noteref"><sup>1</sup></a>: Rowblawks</p>
 <ul>
 <li>fade in animation</li>
 <li><del>darkmodeisbetter.css</del></li>
+<li>vvv Below probably won’t be added. vvv</li>
 <li>Support light mode. Add toggle too.</li>
 <li>I just learned that <a
 href="https://github.com/gohugoio/hugo#overview">Hugo framework</a>
-exists. It’s seems like it has my idea of at least using markdown and
-css, but it’s an actual framework! With Go and them saying it’s made to
-be fast, I will assume it’s faster than pandoc markdown that’s written
-in Haskel. But at the same time.. does parsing take so much time? Time
-will probably be negligable with the amount of time it takes to make a
-file and write data. Also, using a tool made for markdown conversion
-specifically feels more skilled for some reason.</li>
+exists.
+<!-- It's seems like it has my idea of at least using markdown and css, but it's an actual framework! With Go and them saying it's made to be fast, I will assume it's faster than pandoc markdown that's written in Haskel. But at the same time.. does parsing take so much time? Time will probably be negligable with the amount of time it takes to make a file and write data. Also, using a tool made for markdown conversion specifically feels more skilled for some reason. --></li>
 </ul></li>
 <li>Learn something? Add it HERE!</li>
 <li>Favorite websites, apps, interests, so on.</li>
@@ -157,10 +143,7 @@ concise modifications.</del></li>
 <h2 id="addressing-the-rumors">Addressing the rumors</h2>
 <ol class="example" type="1">
 <li>There are no typos here. It’s physically impossible.</li>
-<li><del>I <em>loveee</em> murder. Especially with
-<strong><em>spoon</em></strong>.</del> Just a very normal guy. Nothing
-to see here.</li>
-<li>Clicking on <a href="this">this</a> is just weird.</li>
+<li>Spoons aren’t real. It’s all CGI.</li>
 </ol>
 <!-- Thanks to https://icons8.com/icon/set/social%20media/sf-regular -->
 <!-- YT -->

@@ -3,15 +3,22 @@ title: FrostyNick
 ---
 
 <!--
-# update html
+
+# work on: todo!("") implement!("")
+# update html; 2nd tab
 cd ~/Documents/projects/website2022/ && ./main.sh
 
 cd ~/Documents/projects/website2022/ && ./main.sh serve
 cd ~/Documents/projects/website2022/ && ./main.sh auto
 
+# npm installed! 3nd tab. would be nice to have `main.sh auto` launch and close live-server automatically.. not yet (learn: bg stuff in sh file) (probably solution: https://unix.stackexchange.com/a/153372 )
+live-server
+
+# if live-server isn't working, did it save to html? and is it on localhost?
+
 previews:
 file:///home/nicholas/Documents/projects/website2022/index.html
-http://[::1]:8000/	# only thing is left is file detection to automatically update 👀
+http://[::1]:8000/
 -->
 
 
@@ -20,16 +27,17 @@ http://[::1]:8000/	# only thing is left is file detection to automatically updat
 
 
 
-
 <!---->
 
-<nav><div>[#Home](#home) | [#Projects](#projects 'Yes plz click I give u cookie uwu') | [#About](#about) | [#Spoon Tyranny][spoon]</div></nav>
+<nav><div> [#Home](#home) | [#Projects](#projects) | [#About](#about) | [#Gallary](#gallary) </div></nav>
 
 <!---->
 <article>
 
+
 <p class="no-css">Note: This page is missing `CSS` files. Maybe try reloading your browser.</p> 
 
+[Nicholas 404 Bogucki](my social security number){style="font-size: 170%; padding: 0;"}
 
 # Home <!-- todo!(""); -->
 
@@ -39,11 +47,10 @@ This website was made with pandoc markdown and css.
 
 # About
 
-~~I'm about to eat more breakfast.~~ <!-- todo!("wrong location"); -->
-I just finished eating breakfast.
+Computer Science student interested in: <!-- (insert resune stuff) -->
 
-Getting ready for
-lunch.
+- Cybersecurity
+- This list is incomplete.<!-- todo!(""); -->
 
 
 ### Thunderstorm image info
@@ -51,17 +58,12 @@ lunch.
 <cite>Needs cite from [here](https://www.publicdomainpictures.net/en/view-image.php?image=150817&picture=&jazyk=FR)</cite>
 From [this search](https://duckduckgo.com/?q=public+domain+lightning&iar=images&iaf=license%3APublic&iax=images&ia=images&iai=http%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F160000%2Fvelka%2Feclairs-foudre-et-nuages-sombres.jpg)
 
-Picture is __far__ from final.<!-- todo!(""); -->
 
-
-### Quotes<!-- todo!("Could look better + not many quotes"); -->
+### Quotes<!-- todo!("Could look better + not many quotes + shouldn't this be in my favorite stuff?"); -->
 
 > <p class="burn">If you were on fire, I'd roast marshmellows over you.</p>  
 
-> ["Discipline = freedom"](https://twitter.com/ThePrimeagen/status/1612817303183446016) - @ThePrimeagen on Twitter <!-- implement!("Author name should be seperate in css"); -->
-
-
-> > > > > > sus
+<!-- > > > > > > sus -->
 
 
 ### *my favorite stuff*
@@ -113,8 +115,9 @@ Planning to eat some breakfast.
 	- Needs to look better.
 		- fade in animation
 		- ~~darkmodeisbetter.css~~
+		- vvv Below probably won't be added. vvv
 		- Support light mode. Add toggle too.
-		- I just learned that [Hugo framework](https://github.com/gohugoio/hugo#overview) exists. It's seems like it has my idea of at least using markdown and css, but it's an actual framework! With Go and them saying it's made to be fast, I will assume it's faster than pandoc markdown that's written in Haskel. But at the same time.. does parsing take so much time? Time will probably be negligable with the amount of time it takes to make a file and write data. Also, using a tool made for markdown conversion specifically feels more skilled for some reason.
+		- I just learned that [Hugo framework](https://github.com/gohugoio/hugo#overview) exists. <!-- It's seems like it has my idea of at least using markdown and css, but it's an actual framework! With Go and them saying it's made to be fast, I will assume it's faster than pandoc markdown that's written in Haskel. But at the same time.. does parsing take so much time? Time will probably be negligable with the amount of time it takes to make a file and write data. Also, using a tool made for markdown conversion specifically feels more skilled for some reason. -->
 	- Learn something? Add it HERE!
 	- Favorite websites, apps, interests, so on.
 	- Blog (nah actually do yt instead?)
@@ -137,11 +140,8 @@ Stay tuned!
 ## Addressing the rumors
 
 (@) There are no typos here. It's physically impossible.
-(@) ~~I _loveee_ murder. Especially with ___spoon___.~~ Just a very normal guy. Nothing to see here.
-(@) Clicking on [this](this) is just weird.
+(@) Spoons aren't real. It's all CGI.
 
-
-[spoon]: #spoon "bad cutlery"
 
 <!-- Thanks to https://icons8.com/icon/set/social%20media/sf-regular -->
 

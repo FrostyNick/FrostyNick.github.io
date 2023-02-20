@@ -105,6 +105,10 @@ img {
 	max-width: 80%;
 }
 
+hr {
+	border-color: #300;
+	background-color: #300; /* it's probably faintly visible on a browser i havent tested*/
+}
 #home {
 	margin: 2em 0 0;
 }
