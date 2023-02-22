@@ -5,7 +5,7 @@
 	color: #999;
 	font-family: 'Signika Negative', sans-serif;
 	scroll-behavior: smooth;
-	font-size: 130%;
+	font-size: 133%;
 }
 
 body {
@@ -114,6 +114,7 @@ hr {
 	border-color: #300;
 	background-color: #300; /* it's probably faintly visible on a browser i havent tested*/
 }
+
 #home {
 	margin: 2em 0 0;
 }
@@ -122,14 +123,14 @@ svg {
 	height: 2em;
 	width: 2em;
 	color: #999;
-}
-svg > g {
-	fill: #999 !important;
+	fill: #999;
 }
 
 .big-emojis {
 	font-size: 2rem;
 }
+
+
 
 .no-css {
 	display: none;
