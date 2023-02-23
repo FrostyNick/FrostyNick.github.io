@@ -1,6 +1,6 @@
 ---
 title: FrostyNick
-header-includes: <script>console.log("this does nothing. probably thanks to my custom html template");</script>
+header-includes: <script>console.log("insert script here");</script>
 ---
 
 <!--
@@ -41,14 +41,16 @@ http://[::1]:8000/
 <p class="no-css">Note: This page is missing `CSS` files. Maybe try reloading your browser. Or unzip the zip file!</p> 
 
 
-[Frosty **404** Nick](dontclickmeplease){style="font-size: 170%; padding: 0;"}
+<!-- [**404**](dontclickmeplease){style="font-size: 170%; padding: 0;"} -->
 
 
 You arrived on the early access website. 👀 Expect chaos and some emotional damage. 🔥
 
 # Home <!-- todo!(""); -->
 
-This website was made with Pandoc markdown and CSS.
+% nope!
+
+This website was made with Pandoc markdown and CSS. 
 
  <!--  ![true survivial](https://www.publicdomainpictures.net/pictures/160000/velka/eclairs-foudre-et-nuages-sombres.jpg)  {style="position: absolute; right: 1em"}  {style="max-width: 10%" name="this"} -->
 
@@ -59,7 +61,8 @@ Computer Science student interested in: <!-- (insert resume stuff) -->
 - Cyber security
 - Termux
 - Linux CLI and Desktop
-- This list is incomplete.<!-- todo!(""); private ingredients list: https://docs.google.com/document/d/1uBbbwOwbDt177oy4te9U8uMf0F0oticDXSb0a2E3f6c/edit -->
+- This list is incomplete.  % todo!(""); private ingredients list: https://docs.google.com/document/d/1uBbbwOwbDt177oy4te9U8uMf0F0oticDXSb0a2E3f6c/edit %
+ <!-- todo!(""); private ingredients list: https://docs.google.com/document/d/1uBbbwOwbDt177oy4te9U8uMf0F0oticDXSb0a2E3f6c/edit -->
 
 
 ### Thunderstorm image info
@@ -107,10 +110,10 @@ Best game ^[needs citation]: ~~Rowblawks~~ Minerock Bug Craft Edition
 
 | Game       | Playtime(hrs)| Regret  | Platform|
 |:-----------|-------------|:-------:|:-------:|
-| Minerock   |  700+       |    0    | Samsung|
-| Super Animal Royale | 36 |  2/10   | Steam|
+| Minerock   |  700+       |    0    | Samsung |
+| Super Animal Royale | 36 |  2/10   | Steam   |
 | Rowblawks  | 1<wbr>23456 | ~30%    | None|<!-- On one webiste, <wbr> created ... inside of a preview link. -->
-| Quaver     | 2.9         | 4/10    | Steam|
+| Quaver     | 2.9         | 4/10    | Steam   |
 | Sticker-craft  | 0 | N/A    | N/A<!-- it's a game idea.. onto my 10000 other ideas -->
 
 

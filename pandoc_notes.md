@@ -1,5 +1,6 @@
 # Instructions using Linux Bash:
 
+# Requires https://github.com/tomduck/pandoc-comments unless I forgot to update this.
 # May be outdated. Check `main.sh`
 ### Process ###
 cd ~/Documents/projects/website2022/
