@@ -41,16 +41,14 @@ http://[::1]:8000/
 <p class="no-css">Note: This page is missing `CSS` files. Maybe try reloading your browser. Or unzip the zip file!</p> 
 
 
-<!-- [**404**](dontclickmeplease){style="font-size: 170%; padding: 0;"} -->
+% [**404**](dontclickmeplease){style="font-size: 170%; padding: 0;"}
 
 
 You arrived on the early access website. 👀 Expect chaos and some emotional damage. 🔥
 
 # Home <!-- todo!(""); -->
 
-% nope!
-
-This website was made with Pandoc markdown and CSS. 
+This website was built with Pandoc markdown and CSS. This code is open source [here](https://github.com/FrostyNick/FrostyNick.github.io).
 
  <!--  ![true survivial](https://www.publicdomainpictures.net/pictures/160000/velka/eclairs-foudre-et-nuages-sombres.jpg)  {style="position: absolute; right: 1em"}  {style="max-width: 10%" name="this"} -->
 
@@ -61,8 +59,9 @@ Computer Science student interested in: <!-- (insert resume stuff) -->
 - Cyber security
 - Termux
 - Linux CLI and Desktop
-- This list is incomplete.  % todo!(""); private ingredients list: https://docs.google.com/document/d/1uBbbwOwbDt177oy4te9U8uMf0F0oticDXSb0a2E3f6c/edit %
- <!-- todo!(""); private ingredients list: https://docs.google.com/document/d/1uBbbwOwbDt177oy4te9U8uMf0F0oticDXSb0a2E3f6c/edit -->
+- This list is incomplete. <!-- todo!(""); private ingredients list: https://docs.google.com/document/d/1uBbbwOwbDt177oy4te9U8uMf0F0oticDXSb0a2E3f6c/edit -->
+ 
+ % todo!(""); private ingredients list: https://docs.google.com/document/d/1uBbbwOwbDt177oy4te9U8uMf0F0oticDXSb0a2E3f6c/edit
 
 
 ### Thunderstorm image info
@@ -75,7 +74,7 @@ From [this search](https://duckduckgo.com/?q=public+domain+lightning&iar=images&
 
 > <p class="burn">If you were on fire, I'd roast marshmallows over you.</p>  
 
-<!-- > > > > > > sus -->
+% > > > > > > sus
 
 
 ### *my favorite stuff*
@@ -123,7 +122,8 @@ See [social media links](#social) for now. This will be improved.
 
 # Ideas
 
-<!-- 8 spaces turns into a tab in nvim for some reason :hmm: -->
+% 8 spaces turns into a tab in nvim for some reason :hmm:
+
 - Projects from GitHub/resume/ingredients. <!-- todo!(""); -->
 - Remove ideas page. Polish whatever is on here before newer stuff.
 - For this website:
@@ -137,7 +137,8 @@ See [social media links](#social) for now. This will be improved.
     - Favorite websites, apps, interests, so on.
     - Blog (nah actually do yt instead?)
     - Gallery:
-        - [Sticker Ball](subway)
+        <!-- - [Sticker Ball](subway) -->
+        - Sticker Ball
     - **[ Magnificent lilipad ]**
     - Git and GitHub and GitLab and Git Server and Git Chill and Git to work.
     - \+ Git Integration + Git is love git is life
@@ -155,7 +156,7 @@ Stay tuned!
 (@) Sarcasm isn't real either. It's 2024.
 <!-- todo!("") -->
 
-<!-- Thanks to https://icons8.com/icon/set/social%20media/sf-regular -->
+% Thanks to https://icons8.com/icon/set/social%20media/sf-regular
 
 ## Social{id="social"}
 
