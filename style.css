@@ -6,16 +6,16 @@
 	font-family: 'Signika Negative', sans-serif;
 	scroll-behavior: smooth;
 	font-size: 133%;
+	background-image: url("https://www.publicdomainpictures.net/pictures/160000/velka/eclairs-foudre-et-nuages-sombres.jpg");
+	background-repeat: no-repeat;
+	background-size: 1409px;
+	background-position-x: 100%;
 }
 
 .title {
 	color: #088;
 }
 body {
-	background-image: url("https://www.publicdomainpictures.net/pictures/160000/velka/eclairs-foudre-et-nuages-sombres.jpg");
-	background-repeat: no-repeat;
-	background-size: 1409px;
-	background-position-x: 100%;
 	text-shadow: 2px 2px 0px #0a0a0a; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
 	margin: 2em;
 }
