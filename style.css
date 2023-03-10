@@ -76,14 +76,16 @@ blockquote > p {
 }
 
 nav > div {
-	background-color: #312c;
-	/*
-	text-align: center;
-	width: fit-content;
-	 */
 
+	background-color: #312c;
+
+	/* Not working yet. Trying to tweak the bar so it's only one row and can be scrolled if the screen is too small.
+	max-height: 1em;
+	overflow-y: hidden;
+	*/
  /* position:-webkit-sticky; + sticky works too but it's kinda floaty */
 
+	overflow-x: auto;
 	position: fixed;
 /*	align-items: center;
 	justify-content: center;*/
