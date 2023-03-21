@@ -111,7 +111,7 @@ Best game ^[needs citation]: ~~Rowblawks~~ Minerock Bug Craft Edition
 |:-----------|-------------|:-------:|:-------:|
 | Minerock   |  700+       |    0    | Samsung |
 | Super Animal Royale | 36 |  2/10   | Steam   |
-| Rowblawks  | 1<wbr>23456 | ~30%    | None|<!-- On one webiste, <wbr> created ... inside of a preview link. -->
+| Rowblawks  | 1<wbr>23456 | ~30%    | None    |<!-- On one webiste, <wbr> created ... inside of a preview link. -->
 | Quaver     | 2.9         | 4/10    | Steam   |
 | Sticker-craft  | 0 | N/A    | N/A<!-- it's a game idea.. onto my 10000 other ideas -->
 
@@ -177,6 +177,7 @@ Stay tuned!
 
 <!-- todo!("remove some of this it's bloat here");
 more todo!("see below");
+- Missing social link: FrostyNick#9805 https://discordapp.com/users/221286797194428417
 - (actually skip this cuz this will take time) make a blog. this is already in markdown!
 - sidebar w/ social media icons
 ctrl+{s+d} on vim is sweeet
