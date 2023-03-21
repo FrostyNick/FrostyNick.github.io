@@ -22,6 +22,11 @@ http://[::1]:8000/
 # work on: todo!("") implement!("") git push and public sticker ball reveal
 # work on tutorial to get this running on any PC too
 
+# PREINSTALL:
+npm install -g live-server
+(see dependencies in main.sh)
+(optional) brave-browser
+
 -->
 
 
@@ -107,12 +112,17 @@ Favorite drink: H~2~O
 
 Best game ^[needs citation]: ~~Rowblawks~~ Minerock Bug Craft Edition
 
-| Game       | Playtime(hrs)| Regret  | Platform|
-|:-----------|-------------|:-------:|:-------:|
-| Minerock   |  700+       |    0    | Samsung |
-| Super Animal Royale | 36 |  2/10   | Steam   |
-| Rowblawks  | 1<wbr>23456 | ~30%    | None|<!-- On one webiste, <wbr> created ... inside of a preview link. -->
-| Quaver     | 2.9         | 4/10    | Steam   |
+A lot of missing info here. It will get better over time. <!-- todo!("stats from other devices"); -->
+| Game       | Playtime(hrs)| Regret  | Platform| Creator |
+|:-----------|-------------|:-------:|:-------:|:--------:|
+| Minerock   |  700+       |    0    | Samsung | Microsoft|
+| Genshin Impact | 170     |   2/10  | Samsung | MiHoYo |
+| Mario Kart Tour | 56     |   2/10  | Samsung | Nintendo | 
+| Super Animal Royale | 36 |  2/10   | Steam   |Pixile Studios |
+| Penguin Isle | 41        |   3
+
+| Rowblawks  | 1<wbr>23456 | ~30%    | None    | Roblawjs |
+<!-- On one webiste, <wbr> created ... inside of a preview link. -->
 | Sticker-craft  | 0 | N/A    | N/A<!-- it's a game idea.. onto my 10000 other ideas -->
 
 
@@ -121,8 +131,6 @@ Best game ^[needs citation]: ~~Rowblawks~~ Minerock Bug Craft Edition
 See [social media links](#social) for now. This will be improved.
 
 # Ideas
-
-% 8 spaces turns into a tab in nvim for some reason :hmm:
 
 - Projects from GitHub/resume/ingredients. <!-- todo!(""); -->
 - Remove ideas page. Polish whatever is on here before newer stuff.
@@ -177,6 +185,7 @@ Stay tuned!
 
 <!-- todo!("remove some of this it's bloat here");
 more todo!("see below");
+- Missing social link: FrostyNick#9805 https://discordapp.com/users/221286797194428417
 - (actually skip this cuz this will take time) make a blog. this is already in markdown!
 - sidebar w/ social media icons
 ctrl+{s+d} on vim is sweeet
