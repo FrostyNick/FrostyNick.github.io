@@ -113,15 +113,15 @@ Favorite drink: H~2~O
 Best game ^[needs citation]: ~~Rowblawks~~ Minerock Bug Craft Edition
 
 A lot of missing info here. It will get better over time. <!-- todo!("stats from other devices"); -->
-| Game       | Playtime(hrs)| Regret  | Platform| Creator |
-|:-----------|-------------|:-------:|:-------:|:--------:|
-| Minerock   |  700+       |    0    | Samsung | Microsoft|
-| Genshin Impact | 170     |   2/10  | Samsung | MiHoYo |
-| Mario Kart Tour | 56     |   2/10  | Samsung | Nintendo | 
-| Super Animal Royale | 36 |  2/10   | Steam   |Pixile Studios |
-| Penguin Isle | 41        |   3
-
-| Rowblawks  | 1<wbr>23456 | ~30%    | None    | Roblawjs |
+| Game                 | Playtime(hrs)| Regret  | Platform| Creator |
+|:---------------------|-------------|:-------:|:-------:|:--------:|
+| Minerock             |  700+       |    0    | Samsung | Microsoft| <!-- todo!("add data f iOS, PC.. or see it all from Xbox accounts idk"); -->
+| Genshin Impact       | 170     |   2/10  | Samsung  |   MiHoYo    | <!-- todo!("add data f PC #1, #2, device #not-gaming"); -->
+| Mario Kart Tour      | 56     |   2/10  | Samsung  |   Nintendo   |  
+| Super Animal Royale  | 41 |   2/10  | Steam   |  Pixile Studios   | <!-- 36 hrs on Steam; 5 hrs on Switch -->
+| Penguin Isle         | 41        |   3/10  | Samsung |    ???     | <!-- todo!("add data f device #not-gaming"); -->
+| Pokémon UNITE        | 39      |   3/10  | Nintendo |    ???      | <!-- todo!("add data f ~phone"); -->
+| Rowblawks  | 1<wbr>23456 | ~30%    | None    | Roblawjs | Roblox | <!-- todo!("add data f phones, PC (probably no data)"); -->
 <!-- On one webiste, <wbr> created ... inside of a preview link. -->
 | Sticker-craft  | 0 | N/A    | N/A<!-- it's a game idea.. onto my 10000 other ideas -->
 
