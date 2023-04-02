@@ -113,6 +113,7 @@ Favorite drink: H~2~O
 Best game ^[needs citation]: ~~Rowblawks~~ Minerock Bug Craft Edition
 
 A lot of missing info here. It will get better over time. <!-- todo!("stats from other devices"); -->
+
 | Game                 | Playtime(hrs)| Regret  | Platform| Creator |
 |:---------------------|-------------|:-------:|:-------:|:--------:|
 | Minerock             |  700+       |    0    | Samsung | Microsoft| <!-- todo!("add data f iOS, PC.. or see it all from Xbox accounts idk"); -->
