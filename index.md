@@ -110,21 +110,20 @@ This is work in project.<!-- todo!(""); -->
 
 Favorite drink: H~2~O
 
-Best game ^[needs citation]: ~~Rowblawks~~ Minerock Bug Craft Edition
+Best game ^[needs citation]: ~~Rowblawks~~ Minerock [Bug Craft Edition](https://youtu.be/gSLQjRWjL0A) 🐛
 
 A lot of missing info here. It will get better over time. <!-- todo!("stats from other devices"); -->
 
-| Game                 | Playtime(hrs)| Regret  | Platform| Creator |
+| Game                 | Playtime(hrs)| Regret  | Platform| Creator | <!-- it gets messy when there are multiple platforms. *Maybe* there should be one letter representing each platform -->
 |:---------------------|-------------|:-------:|:-------:|:--------:|
 | Minerock             |  700+       |    0    | Samsung | Microsoft| <!-- todo!("add data f iOS, PC.. or see it all from Xbox accounts idk"); -->
 | Genshin Impact       | 170     |   2/10  | Samsung  |   MiHoYo    | <!-- todo!("add data f PC #1, #2, device #not-gaming"); -->
 | Mario Kart Tour      | 56     |   2/10  | Samsung  |   Nintendo   |  
 | Super Animal Royale  | 41 |   2/10  | Steam   |  Pixile Studios   | <!-- 36 hrs on Steam; 5 hrs on Switch -->
 | Penguin Isle         | 41        |   3/10  | Samsung |    ???     | <!-- todo!("add data f device #not-gaming"); -->
-| Pokémon UNITE        | 39      |   3/10  | Nintendo |    ???      | <!-- todo!("add data f ~phone"); -->
-| Rowblawks  | 1<wbr>23456 | ~30%    | None    | Roblawjs | Roblox | <!-- todo!("add data f phones, PC (probably no data)"); -->
-<!-- On one webiste, <wbr> created ... inside of a preview link. -->
-| Sticker-craft  | 0 | N/A    | N/A<!-- it's a game idea.. onto my 10000 other ideas -->
+| Pokémon UNITE        | 39      |   3/10  | Nintendo |    Nintendo | <!-- todo!("add data f ~phone"); -->
+| Rowblawks  | 1<wbr>23456 | ~30%    | None    | Roblawjs | Roblox | <!-- todo!("add data f phones, PC (probably no data)"); --> <!-- On one website, <wbr> created ... inside of a preview link. -->
+| Sticker-craft        |   0   |   N/A   |    N/A   | Sticker Army |<!-- it's a game idea.. onto my 10000 other ideas -->
 
 
 # Projects
@@ -156,7 +155,6 @@ See [social media links](#social) for now. This will be improved.
 # Gallery <!--{#spoon}--> <!-- todo!("add hidden part of website for the VIP. Also #spoon broke."); -->
 
 Stay tuned!
-
 
 ## Addressing the rumors
 
