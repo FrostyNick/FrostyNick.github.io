@@ -86,8 +86,8 @@ From [this search](https://duckduckgo.com/?q=public+domain+lightning&iar=images&
  
 This is work in project.<!-- todo!(""); -->
 
-[Better 🎌 Flags](https://emojipedia.org/flags/ "🎌 Flags — List of Emoji Flags to Copy and Paste"):
-<span class="big-emojis">
+<!-- [Better 🎌 Flags](https://emojipedia.org/flags/ "🎌 Flags — List of Emoji Flags to Copy and Paste"): -->
+<span class="big-emojis"> 
 🏳️
 🇰🇷 
 🇮🇳 
@@ -130,27 +130,29 @@ A lot of missing info here. It will get better over time. <!-- todo!("stats from
 
 See [social media links](#social) for now. This will be improved.
 
+<!--
 # Ideas
 
-- Projects from GitHub/resume/ingredients. <!-- todo!(""); -->
+- Projects from GitHub/resume/ingredients. <!- todo!(""); ->
 - Remove ideas page. Polish whatever is on here before newer stuff.
 - For this website:
     - Needs to look better.
         - fade in animation
         - vvv Below probably won't be added. vvv
         - Support light mode. Add toggle too.
-    - I just learned that [Hugo framework](https://github.com/gohugoio/hugo#overview) exists. But first, learn more about website deployment to the web first. <!-- It's seems like it has my idea of at least using markdown and css, but it's an actual framework! With Go and them saying it's made to be fast, I will assume it's faster than pandoc markdown that's written in Haskel. But at the same time.. does parsing take so much time? Time will probably be negligable with the amount of time it takes to make a file and write data. Also, using a tool made for markdown conversion specifically feels more skilled for some reason. -->
+    - I just learned that [Hugo framework](https://github.com/gohugoio/hugo#overview) exists. But first, learn more about website deployment to the web first. <!- It's seems like it has my idea of at least using markdown and css, but it's an actual framework! With Go and them saying it's made to be fast, I will assume it's faster than pandoc markdown that's written in Haskel. But at the same time.. does parsing take so much time? Time will probably be negligable with the amount of time it takes to make a file and write data. Also, using a tool made for markdown conversion specifically feels more skilled for some reason. ->
     - "Leaflet" of places I've visited.
     - Learn something? Add it HERE!
     - Favorite websites, apps, interests, so on.
     - Blog (nah actually do yt instead?)
     - Gallery:
-        <!-- - [Sticker Ball](subway) -->
+        <!- - [Sticker Ball](subway) ->
         - Sticker Ball
     - **[ Magnificent lilipad ]**
     - Git and GitHub and GitLab and Git Server and Git Chill and Git to work.
     - \+ Git Integration + Git is love git is life
         - ~~Pandoc + other tools and stuff it in a shell script for easy + concise modifications.~~
+-->
 
 # Gallery <!--{#spoon}--> <!-- todo!("add hidden part of website for the VIP. Also #spoon broke."); -->
 
