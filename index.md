@@ -55,24 +55,21 @@ You arrived on the early access website. 👀 Expect chaos and some emotional da
 
 This website was built with Pandoc markdown and CSS. This code is open source [here](https://github.com/FrostyNick/FrostyNick.github.io).
 
- <!--  ![true survivial](https://www.publicdomainpictures.net/pictures/160000/velka/eclairs-foudre-et-nuages-sombres.jpg)  {style="position: absolute; right: 1em"}  {style="max-width: 10%" name="this"} -->
 
 # About
 
-Computer Science student interested in: <!-- (insert resume stuff) -->
+Computer Science student passionate about: <!-- (insert resume stuff) -->
 
+- Solving challenges that haven't been solved yet.
 - Cyber security
-- Termux
-- Linux CLI and Desktop
-- This list is incomplete. <!-- todo!(""); private ingredients list: https://docs.google.com/document/d/1uBbbwOwbDt177oy4te9U8uMf0F0oticDXSb0a2E3f6c/edit -->
- 
- % todo!(""); private ingredients list: https://docs.google.com/document/d/1uBbbwOwbDt177oy4te9U8uMf0F0oticDXSb0a2E3f6c/edit
+- Linux desktop and server.
+<!-- todo!(""); private ingredients list: https://docs.google.com/document/d/1uBbbwOwbDt177oy4te9U8uMf0F0oticDXSb0a2E3f6c/edit -->
+- Bugrock 🧊
+- Geography 🌏
+- Turning every single device into a web server.
+- Ending the spoons (because 🍴 and 🥢 are better in my opinion).
 
-
-### Thunderstorm image info
-
-<cite>Needs cite from [here](https://www.publicdomainpictures.net/en/view-image.php?image=150817&picture=&jazyk=FR)</cite>
-From [this search](https://duckduckgo.com/?q=public+domain+lightning&iar=images&iaf=license%3APublic&iax=images&ia=images&iai=http%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F160000%2Fvelka%2Feclairs-foudre-et-nuages-sombres.jpg)
+Often active on some weekdays as of June 2023.
 
 
 ### Quotes<!-- todo!("Could look better + not many quotes + shouldn't this be in my favorite stuff?"); -->
@@ -82,9 +79,9 @@ From [this search](https://duckduckgo.com/?q=public+domain+lightning&iar=images&
 % > > > > > > sus
 
 
-### *my favorite stuff*
+### *My favorite stuff*
  
-This is work in project.<!-- todo!(""); -->
+This is work in progress.<!-- todo!(""); -->
 
 <!-- [Better 🎌 Flags](https://emojipedia.org/flags/ "🎌 Flags — List of Emoji Flags to Copy and Paste"): -->
 <span class="big-emojis"> 
@@ -110,20 +107,22 @@ This is work in project.<!-- todo!(""); -->
 
 Favorite drink: H~2~O
 
-Best game ^[needs citation]: ~~Rowblawks~~ Minerock [Bug Craft Edition](https://youtu.be/gSLQjRWjL0A) 🐛
+Best game ^[[Why Minecraft is the greatest game ever made \| Windows Central](https://www.windowscentral.com/minecraft-is-the-greatest-game-ever-made "biased click")]: ~~Rowblawks~~ Minerock [Bug Craft Edition](https://youtu.be/gSLQjRWjL0A) 🐛
 
-A lot of missing info here. It will get better over time. <!-- todo!("stats from other devices"); -->
+<!-- todo!("stats from other devices"); -->
+Note: There are missing games below; currently in progress.
 
 | Game                 | Playtime(hrs)| Regret  | Platform| Creator | <!-- it gets messy when there are multiple platforms. *Maybe* there should be one letter representing each platform -->
 |:---------------------|-------------|:-------:|:-------:|:--------:|
-| Minerock             |  700+       |    0    | Samsung | Microsoft| <!-- todo!("add data f iOS, PC.. or see it all from Xbox accounts idk"); -->
-| Genshin Impact       | 170     |   2/10  | Samsung  |   MiHoYo    | <!-- todo!("add data f PC #1, #2, device #not-gaming"); -->
-| Mario Kart Tour      | 56     |   2/10  | Samsung  |   Nintendo   |  
-| Super Animal Royale  | 41 |   2/10  | Steam   |  Pixile Studios   | <!-- 36 hrs on Steam; 5 hrs on Switch -->
-| Penguin Isle         | 41        |   3/10  | Samsung |    ???     | <!-- todo!("add data f device #not-gaming"); -->
-| Pokémon UNITE        | 39      |   3/10  | Nintendo |    Nintendo | <!-- todo!("add data f ~phone"); -->
-| Rowblawks  | 1<wbr>23456 | ~30%    | None    | Roblawjs | Roblox | <!-- todo!("add data f phones, PC (probably no data)"); --> <!-- On one website, <wbr> created ... inside of a preview link. -->
-| Sticker-craft        |   0   |   N/A   |    N/A   | Sticker Army |<!-- it's a game idea.. onto my 10000 other ideas -->
+| Minerock             |  700+       |    0    | Samsung | Microsoft | <!-- todo!("add data f iOS, PC.. or see it all from Xbox accounts idk"); -->
+| Genshin Impact       | 170     |   2/10  | Samsung  |   MiHoYo     | <!-- todo!("add data f PC #1, #2, device #not-gaming"); -->
+| Mario Kart Tour      | 56     |   2/10  | Samsung  |   Nintendo    |  
+| Super Animal Royale  | 41     | 2/10   | Steam   | Pixile Studios  | <!-- 36 hrs on Steam; 5 hrs on Switch -->
+| Penguin Isle         | 41        |   3/10  | Samsung |    ???      | <!-- todo!("add data f device #not-gaming"); -->
+| Pokémon UNITE        | 39      |   3/10  | Nintendo |    Nintendo  | <!-- todo!("add data f ~phone"); -->
+| Rowblawks            | ???    |  1.9/10  | Roblox   | Roblox       | <!-- todo!("add data f phones, PC (probably no data)"); --> <!-- On one website, <wbr> created ... inside of a preview link. -->
+| [Quaver](https://quavergame.com/) | 6.6 | 2/10 | Steam  |  Swan    | 
+| Sticker-craft        |   0   |   N/A      |    N/A   | Sticker Army |<!-- it's a game idea.. onto my 10000 other ideas -->
 
 
 # Projects
@@ -131,7 +130,7 @@ A lot of missing info here. It will get better over time. <!-- todo!("stats from
 See [social media links](#social) for now. This will be improved.
 
 <!--
-# Ideas
+# ideas.md
 
 - Projects from GitHub/resume/ingredients. <!- todo!(""); ->
 - Remove ideas page. Polish whatever is on here before newer stuff.
@@ -140,7 +139,7 @@ See [social media links](#social) for now. This will be improved.
         - fade in animation
         - vvv Below probably won't be added. vvv
         - Support light mode. Add toggle too.
-    - I just learned that [Hugo framework](https://github.com/gohugoio/hugo#overview) exists. But first, learn more about website deployment to the web first. <!- It's seems like it has my idea of at least using markdown and css, but it's an actual framework! With Go and them saying it's made to be fast, I will assume it's faster than pandoc markdown that's written in Haskel. But at the same time.. does parsing take so much time? Time will probably be negligable with the amount of time it takes to make a file and write data. Also, using a tool made for markdown conversion specifically feels more skilled for some reason. ->
+    - I found Zola.. Zola > Hugo :) <- I just learned that [Hugo framework](https://github.com/gohugoio/hugo#overview) exists. But first, learn more about website deployment to the web first. <!- It's seems like it has my idea of at least using markdown and css, but it's an actual framework! With Go and them saying it's made to be fast, I will assume it's faster than pandoc markdown that's written in Haskel. But at the same time.. does parsing take so much time? Time will probably be negligable with the amount of time it takes to make a file and write data. Also, using a tool made for markdown conversion specifically feels more skilled for some reason. -> ->
     - "Leaflet" of places I've visited.
     - Learn something? Add it HERE!
     - Favorite websites, apps, interests, so on.
@@ -157,15 +156,7 @@ See [social media links](#social) for now. This will be improved.
 # Gallery <!--{#spoon}--> <!-- todo!("add hidden part of website for the VIP. Also #spoon broke."); -->
 
 Stay tuned!
-
-## Addressing the rumors
-
-(@) There are no typos here. It's physically impossible.
-(@) Spoons aren't real. It's all CGI.
-(@) Sarcasm isn't real either. It's 2024.
 <!-- todo!("") -->
-
-% Thanks to https://icons8.com/icon/set/social%20media/sf-regular
 
 ## Social{id="social"}
 
@@ -184,6 +175,7 @@ Stay tuned!
 -->
 </article>
 
+<cite>[Website background image](https://www.publicdomainpictures.net/en/view-image.php?image=150817&picture=&jazyk=FR) from Axelle B.</cite> <cite>Icons from [icons8.com](https://icons8.com/icon/set/social%20media/sf-regular) </cite>
 <!-- todo!("remove some of this it's bloat here");
 more todo!("see below");
 - Missing social link: FrostyNick#9805 https://discordapp.com/users/221286797194428417
