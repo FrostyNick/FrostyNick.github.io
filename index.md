@@ -111,18 +111,30 @@ Best game ^[[Why Minecraft is the greatest game ever made \| Windows Central](ht
 
 <!-- todo!("stats from other devices"); -->
 Note: There are missing games below; currently in progress.
+ 
+<!-- it gets messy when there are multiple platforms. *Maybe* there should be
+one letter representing each platform -->
+| Game                 | Playtime(hrs)| Regret  | Platform| Creator  |
+|:---------------------|-------------|:-------:|:-------:|:---------:|
+| Minerock             |  700+   |    0   | Samsung  | Microsoft     |
+| Genshin Impact       | 171     |   2/10 | Samsung  |   MiHoYo      |
+| Mario Kart Tour      | 56      |   2/10 | Samsung  |   Nintendo    |  
+| Super Animal Royale  | 41      |   2/10 | Steam   | Pixile Studios |
+| Penguin Isle         | 41      |   3/10 | Samsung  |    ???        |
+| Pokémon UNITE        | 39      |   3/10 | Nintendo |    Nintendo   |
+| Rowblawks            | ???     | 1.9/10 | Roblox   | Roblox        |
+| [Quaver](https://quavergame.com/) | 19 | 2/10 | Steam |   Swan     |
+| Sticker-craft        |   0   |   N/A      |    N/A   | Sticker Army | 
 
-| Game                 | Playtime(hrs)| Regret  | Platform| Creator | <!-- it gets messy when there are multiple platforms. *Maybe* there should be one letter representing each platform -->
-|:---------------------|-------------|:-------:|:-------:|:--------:|
-| Minerock             |  700+       |    0    | Samsung | Microsoft | <!-- todo!("add data f iOS, PC.. or see it all from Xbox accounts idk"); -->
-| Genshin Impact       | 171     |   2/10  | Samsung  |   MiHoYo     | <!-- todo!("add data f PC #1, #2, device #not-gaming"); -->
-| Mario Kart Tour      | 56     |   2/10  | Samsung  |   Nintendo    |  
-| Super Animal Royale  | 41     | 2/10   | Steam   | Pixile Studios  | <!-- 36 hrs on Steam; 5 hrs on Switch -->
-| Penguin Isle         | 41        |   3/10  | Samsung |    ???      | <!-- todo!("add data f device #not-gaming"); -->
-| Pokémon UNITE        | 39      |   3/10  | Nintendo |    Nintendo  | <!-- todo!("add data f ~phone"); -->
-| Rowblawks            | ???    |  1.9/10  | Roblox   | Roblox       | <!-- todo!("add data f phones, PC (probably no data)"); --> <!-- On one website, <wbr> created ... inside of a preview link. -->
-| [Quaver](https://quavergame.com/) | 19 | 2/10 | Steam  |  Swan    | <!-- 6 extra hours are AFK -->
-| Sticker-craft        |   0   |   N/A      |    N/A   | Sticker Army |<!-- it's a game idea.. onto my 10000 other ideas -->
+Minerock            <!-- todo!("add data f iOS, PC or see f Xbox accounts idk"); -->
+Genshin Impact      <!-- todo!("add data f PC #1, #2, device #not-gaming"); -->
+Mario Kart Tour     <!-- 36 hrs on Steam; 5 hrs on Switch -->
+Super Animal Royale <!-- todo!("add data f device #not-gaming"); -->
+Penguin Isle        <!-- todo!("add data f ~phone"); -->
+Pokémon UNITE       <!-- todo!("add data f phones, PC (probably no data)"); -->
+    <!-- On one website, <wbr> created ... inside of a preview link. -->
+Rowblawks           <!-- 6 extra hours are AFK -->
+[Quaver](https://quavergame.com/)  <!-- it's a game idea.. onto my 10000 other ideas -->
 
 
 # Projects
