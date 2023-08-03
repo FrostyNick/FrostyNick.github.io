@@ -1,5 +1,6 @@
 ---
 title: FrostyNick
+description: My personal website about games, cyber security, web development, and Linux.
 header-includes: <script>console.log("insert script here");</script>
 ---
 
@@ -46,7 +47,7 @@ npm install -g live-server
 <p class="no-css">Note: This page is missing `CSS` files. Maybe try reloading your browser. Or unzip the zip file!</p> 
 
 
-% [**404**](dontclickmeplease){style="font-size: 170%; padding: 0;"}
+<!-- [**404**](dontclickmeplease){style="font-size: 170%; padding: 0;"} -->
 
 
 You arrived on the early access website. 👀 Expect chaos and some emotional damage. 🔥
@@ -76,7 +77,7 @@ Often active on some weekdays as of June 2023.
 
 > <p class="burn">If you were on fire, I'd roast marshmallows over you.</p>  
 
-% > > > > > > sus
+<!-- > > > > > > sus -->
 
 
 ### *My favorite stuff*
@@ -123,7 +124,7 @@ one letter representing each platform -->
 | Penguin Isle         | 41      |   3/10 | Samsung  |    ???        |
 | Pokémon UNITE        | 39      |   3/10 | Nintendo |    Nintendo   |
 | Rowblawks            | ???     | 1.9/10 | Roblox   | Roblox        |
-| [Quaver](https://quavergame.com/) | 19 | 2/10 | Steam |   Swan     |
+| [Quaver](https://quavergame.com/) | 35 | 2/10 | Steam |   Swan     |
 | Sticker-craft        |   0   |   N/A      |    N/A   | Sticker Army | 
 
 Minerock            <!-- todo!("add data f iOS, PC or see f Xbox accounts idk"); -->

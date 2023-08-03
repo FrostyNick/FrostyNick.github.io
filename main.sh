@@ -1,7 +1,7 @@
 # pandoc_notes.md for instructions
 
 update_html() {
-	chmod +w index.html && pandoc --template=default.html index.md --filter pandoc-comments -c style.css -o index.html
+	chmod +w index.html && pandoc --template=default.html index.md -c style.css -o index.html
 	chmod -w index.html
 }
 update_html
