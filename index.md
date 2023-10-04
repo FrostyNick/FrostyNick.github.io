@@ -30,7 +30,9 @@ npm install -g live-server
 
 -->
 
-
+<!-- If website changes, update:
+https://nam.delve.office.com/?u=fd7a84a0-a53b-4eee-83f4-3408448098d5&v=editprofile
+-->
 
 
 
@@ -212,4 +214,37 @@ https://twitter.com/ThePrimeagen/status/1615032930895826946?s=20&t=_NU3avUaQ0FnW
 
 
 
+<!-- Just in case anyone steals this, this is my short story. I created it from scratch. If someone else says they made it, they're lying (see the timestamp this commit was added to my website comments)
 
+
+
+
+
+Unfortunately, a new (up to 8 years old … but still, this is comparatively short relative to the start of the computing world around the 1960s debatable maybe not) feature, that is only built into Windows, which will *definitely* make you weep with repent if you're not a Windows user. Look away everyone else, you will instantly switch to Windows 10 or above and make the Windows company a de-facto real monopoly except for that one person (since duopolies don't count in the general capitalist world for some reason). Lo and behold, say it with me:
+
+WINDOWS
+*asdpojsadijdsfoidsjfdsoijfso*
+
+control
+*the world descents into a monochromatic abyss*
+
+shift
+*everything slowly draws hued green in your presence as you fear: "what's the next move," are they going for my cat next, is Joe Biden in my basement?*
+
+alt
+*reality visually becomes 4-dimensional and you question, wtf. I think I have a virus. I think Windows is the virus. What if corona (not to be mistaken with Cortana) was actually Windows all along. Why am I here? Is this the alternate universe? Nervana? Jang? Hell? This dimension.. was not meant to be seen…. as I return to the beautiful natural milky way.*
+
+L
+*bruh what is this letter. I feel like I'm gonna lose everything*
+
+*LinkedIn opens*
+
+
+-- end of story completely complete regularness --
+Just a regular story, no discordant tumult; void of replete surreal.
+
+
+
+
+
+-->
