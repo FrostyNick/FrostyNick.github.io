@@ -38,6 +38,11 @@ npm install -g live-server
 
 <!---->
 
+<!--
+Consider redesigning website in response to some feedback
+New changes here are not yet compiled; not at main PC
+-->
+
 <nav><div> [#Home](#home) | [#About](#about) | [#Projects](#projects) | [#Gallery](#gallery) </div></nav>
 
 <!---->
@@ -55,6 +60,9 @@ You arrived on the early access website. Expect chaos and some emotional damage.
 # Home <!-- todo!(""); -->
 
 This website was built with Pandoc markdown and CSS. This code is open source [here](https://github.com/FrostyNick/FrostyNick.github.io).
+
+#CeasefireNow [Ceasefire Now](https://ceasefire-now.com/) [Ceasefire NOW — IfNotNowMovement](https://www.ifnotnowmovement.org/ceasefire-now)
+
 
 
 # About
