@@ -63,8 +63,6 @@ You arrived on the early access website. Expect chaos and some emotional damage.
 
 This website was built with Pandoc markdown and CSS. This code is open source [here](https://github.com/FrostyNick/FrostyNick.github.io).
 
-#CeasefireNow [Ceasefire Now](https://ceasefire-now.com/) [Ceasefire NOW — IfNotNowMovement](https://www.ifnotnowmovement.org/ceasefire-now)
-
 
 
 # About
@@ -82,13 +80,16 @@ Computer Science student passionate about: <!-- (insert resume stuff) -->
 
 Often active on some weekdays as of June 2023.
 
+[#CeasefireNow](https://ceasefire-now.com/)
+
 
 ### Quotes<!-- todo!("Could look better + not many quotes + shouldn't this be in my favorite stuff?"); -->
 
-> <p class="burn">Don’t overthink it or over complicate it… just live and make the most of the part of your life you’re in right now, no matter what it looks like.
+> Don’t overthink it or over complicate it… just live and make the most of the part of your life you’re in right now, no matter what it looks like.<br><br>Enjoy the ride, my friend! ;)
 
-Enjoy the ride, my friend! ;)
-</p>  
+<!-- <p class="burn"> -->
+<!-- > test -->
+<!-- </p>   -->
 
 <!-- > > > > > > sus -->
 
