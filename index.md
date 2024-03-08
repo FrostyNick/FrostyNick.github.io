@@ -85,7 +85,10 @@ Often active on some weekdays as of June 2023.
 
 ### Quotes<!-- todo!("Could look better + not many quotes + shouldn't this be in my favorite stuff?"); -->
 
-> <p class="burn">If you were on fire, I'd roast marshmallows over you.</p>  
+> <p class="burn">Don’t overthink it or over complicate it… just live and make the most of the part of your life you’re in right now, no matter what it looks like.
+
+Enjoy the ride, my friend! ;)
+</p>  
 
 <!-- > > > > > > sus -->
 
