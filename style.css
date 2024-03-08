@@ -32,15 +32,16 @@ body::-webkit-scrollbar-thumb {
 
 /*credit to https://codepen.io/team/css-tricks/pen/QWWXQzE */
 body {
-	text-shadow: 2px 2px 0px #0a0a0a; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
 	margin: 2em;
-	scrollbar-width: thin;
 
 	/*thumb/foreground, scrollbar/background*/
 	scrollbar-color: #9f9 #000; 
 }
 
-
+article {
+	text-shadow: 2px 2px 0px #0a0a0a; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
+	scrollbar-width: thin;
+}
 
 nav {
 	justify-content: center;
@@ -77,6 +78,8 @@ blockquote > p {
 
 nav > div {
 
+    -webkit-backdrop-filter: blur(8px) saturate(180%);
+    backdrop-filter: blur(8px) saturate(180%);
 	background-color: #312c;
 
 	/* Not working yet. Trying to tweak the bar so it's only one row and can be scrolled if the screen is too small.
@@ -96,7 +99,7 @@ nav > div {
 	
 /*	margin: -2em auto; */
 	border-radius: 0.5em;
-	color: #444;
+	color: #222;
 
 /*
 	flex-wrap: wrap;
