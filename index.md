@@ -1,7 +1,6 @@
 ---
 title: FrostyNick
 description: My personal website about games, cyber security, web development, and Linux.
-header-includes: <script>console.log("insert script here");</script>
 ---
 
 <!--
@@ -23,10 +22,19 @@ http://[::1]:8000/
 # work on: todo!("") implement!("") git push and public sticker ball reveal
 # work on tutorial to get this running on any PC too
 
-# PREINSTALL:
+# Dependencies needed for main.sh script to work:
+
+1.
+possible alternative to live-server: five-server (.sh script needs to be modified for that to work)
+yarn global add live-server
+OR
 npm install -g live-server
-(see dependencies in main.sh)
-(optional) brave-browser
+
+2.
+Example: Arch Linux with root (in this example, with yay):
+yay -S inotify-tools pandoc-bin
+(for your system find similar packages)
+(optional) brave-browser for --app argument
 
 -->
 
@@ -45,7 +53,7 @@ Consider redesigning website in response to some feedback
 New changes here are not yet compiled; not at main PC
 -->
 
-<nav><div> [#Home](#home) | [#About](#about) | [#Projects](#projects) | [#Gallery](#gallery) </div></nav>
+<nav><div> [#Home](#home) | [#About](#about) | [#Projects](#projects) | [#Future](#info) </div></nav>
 
 <!---->
 <article>
@@ -57,33 +65,30 @@ New changes here are not yet compiled; not at main PC
 <!-- [**404**](dontclickmeplease){style="font-size: 170%; padding: 0;"} -->
 
 
-You arrived on the early access website. Expect chaos and some emotional damage. 🔥
-
 # Home <!-- todo!(""); -->
 
-This website was built with Pandoc markdown and CSS. This code is open source [here](https://github.com/FrostyNick/FrostyNick.github.io).
+You arrived on the early access website. Expect chaos and some emotional damage. 🔥
+
+This website was built with Pandoc markdown and CSS. This code is open source [here](https://github.com/FrostyNick/FrostyNick.github.io). <!-- how about... no -->
 
 
 
 # About
 
-Computer Science student passionate about: <!-- (insert resume stuff) -->
+Computer Science student passionate about: <!-- (don't insert resume stuff) -->
 
 - Solving challenges that haven't been solved yet.
 - Cyber security
-- Linux desktop and server.
+- Linux stuff
 <!-- todo!(""); private ingredients list: https://docs.google.com/document/d/1uBbbwOwbDt177oy4te9U8uMf0F0oticDXSb0a2E3f6c/edit -->
 - Bugrock (on both editions) 🧊 
 - Geography 🌏
-- Turning every single device into a web server.
 - Ending the spoons (because 🍴 and 🥢 are better in my opinion).
-
-Often active on some weekdays as of June 2023.
 
 [#CeasefireNow](https://ceasefire-now.com/)
 
 
-### Quotes<!-- todo!("Could look better + not many quotes + shouldn't this be in my favorite stuff?"); -->
+### Quotes<!-- todo!("Could look better + not many quotes + shouldn't this be in "my favorite" section?"); -->
 
 > <p class="burn">If you were on fire, I’d roast marshmallows over you.</p>
 
@@ -95,72 +100,56 @@ Often active on some weekdays as of June 2023.
 
 <!-- > > > > > > sus -->
 
+<!-- 
 
 ### *My favorite stuff*
  
-This is work in progress.<!-- todo!(""); -->
+This is work in progress.<!-- todo!(""); - ->
 
-<span class="big-emojis"> 
+<span class="big-emojis">
 🏳️
-🇰🇷 
-🇮🇳 
-🇯🇵 
-🇧🇩 
-🇨🇦 
-🇨🇴 
-🇨🇾 
-🇲🇽 
-🇵🇪 
-🇵🇱 
-🇵🇰 
-🇸🇪 
-🇸🇾 
-🇺🇦 
-🇻🇪 
-🇺🇸 
-🇻🇳 
+🇰🇷
+🇮🇳
+🇯🇵
+🇧🇩
+🇨🇦
+🇨🇴
+🇨🇾
+🇲🇽
+🇵🇪
+🇵🇱
+🇵🇰
+🇸🇪
+🇸🇾
+🇺🇦
+🇻🇪
+🇺🇸
+🇻🇳
 </span>
+
+-->
 
 Favorite drink: H~2~O
 
-#### Gaming
+### Gaming
 
-Best game
-^[[Why Minecraft is the greatest game ever made \| Windows Central](https://www.windowscentral.com/minecraft-is-the-greatest-game-ever-made "biased click")]:
 ~~Rowblawks~~ Minerock [Bug Craft Edition](https://youtu.be/gSLQjRWjL0A) 🐛
-
-<!-- todo!("stats from other devices"); -->
-Note: There are missing games below; currently in progress.
- 
-<!-- it gets messy when there are multiple platforms. *Maybe* there should be
-one letter representing each platform -->
-| Game                 | Playtime(hrs) | Regret  | Platform | Creator  |
-|:----------------------------------|------|:------:|:--------:|:--------------:|
-| Minerock                          | 700+ | 0      | Samsung  | Microsoft      |
-| Genshin Impact                    | 171  | 2/10   | Samsung  | MiHoYo         |
-| Mario Kart Tour                   | 56   | 2/10   | Samsung  | Nintendo       |
-| [Quaver](https://quavergame.com/) | 44   | 2/10   | Steam    | Swan           |
-| Super Animal Royale               | 42   | 2/10   | Steam    | Pixile Studios |
-| Penguin Isle                      | 41   | 3/10   | Samsung  | ???            |
-| Pokémon UNITE                     | 39   | 3/10   | Nintendo | Nintendo       |
-| Rowblawks                         | ???  | 1.9/10 | Roblox   | Roblox         |
-| Sticker-craft                     | 0    | N/A    | N/A      | Sticker Army   |
-
-<!-- Minerock            todo!("add data f iOS, PC or see f Xbox accounts idk"); -->
-<!-- Genshin Impact      todo!("add data f PC #1, #2, device #not-gaming"); -->
-<!-- Mario Kart Tour     36 hrs on Steam; 5 hrs on Switch -->
-<!-- Super Animal Royale todo!("add data f device #not-gaming"); -->
-<!-- Penguin Isle        todo!("add data f ~phone"); -->
-<!-- Pokémon UNITE       todo!("add data f phones, PC (probably no data)"); -->
-<!-- On one website, <wbr> created ... inside of a preview link. -->
-<!-- Rowblawks           6 extra hours are AFK -->
-<!-- [Quaver](https://quavergame.com/)  it's a game idea.. onto my 10000 other ideas -->
-
-[Quaver stats](https://quavergame.com/user/479240 "FrostyTix\'s Profile | Quaver")
 
 # Projects
 
-See [social media links](#social) for now. This will be improved.
+Below are some projects you can try out quickly.
+
+### Team projects
+
+- [Rhythm Swipe](https://projectrhythmswipe.netlify.app/) - Web rhythm game
+- [Purified on itch.io](https://francisishere.itch.io/purified) - You are an employee that sells a product that cleans water for the villagers. As time goes by, you then start to learn more about the town and the company you are working with.
+
+### My own projects
+
+- [YouTube anti-distraction](https://userstyles.world/style/1651/youtube-anti-distraction) stylesheet and many other userstyles on [uso.kkx.one](https://uso.kkx.one/browse/styles?search=%40639166 "uso.kkx.one is a privacy-respecting mirror of the nowadays-shady userstyles.org. If you want to share UserCSS, use userstyles.world instead.").
+- [dotfiles](https://github.com/FrostyNick/dotfiles) for Arch and LTS Ubuntu.
+
+To see more of my projects, visit my <!-- nerdfont:󰊤  --> [GitHub profile](https://github.com/frostynick "FrostyNick").
 
 <!--
 # ideas.md
@@ -186,9 +175,9 @@ See [social media links](#social) for now. This will be improved.
         - ~~Pandoc + other tools and stuff it in a shell script for easy + concise modifications.~~
 -->
 
-# Gallery <!--{#spoon}--> <!-- todo!("add hidden part of website for the VIP. Also #spoon broke."); -->
+# Future{id="info"}
 
-Stay tuned!
+Planning to make a blog in the future.
 <!-- todo!("") -->
 
 ## Social{id="social"}
@@ -211,54 +200,15 @@ still not a fan of an svg like it is right now. Will look more l8r.
 
 <cite>[Website background image](https://www.publicdomainpictures.net/en/view-image.php?image=150817&picture=&jazyk=FR) from Axelle B.</cite> <cite>Icons from [icons8.com](https://icons8.com/icon/set/social%20media/sf-regular) </cite>
 <!-- todo!("remove some of this it's bloat here");
-more todo!("see below");
-- Missing social link: FrostyNick#9805 https://discordapp.com/users/221286797194428417
-- (actually skip this cuz this will take time) make a blog. this is already in markdown!
 - sidebar w/ social media icons
 ctrl+{s+d} on vim is sweeet
 
-cool websites:<tab>https://bugswriter.com/ and remember the lilipad thingy?
-fun fact:<tab>#0f08 is a thing -->
+cool websites:<tab>https://bugswriter.com/
+-->
 <!-- might del l8r:
-https://twitter.com/KosinerSky/status/1615258485830324224?cxt=HHwWgMDQxZ3CxuosAAAA
-https://twitter.com/ThePrimeagen/status/1615032930895826946?s=20&t=_NU3avUaQ0FnWhXiiOtnzQ-->
+https://xcancel.com/KosinerSky/status/1615258485830324224?cxt=HHwWgMDQxZ3CxuosAAAA
+https://xcancel.com/ThePrimeagen/status/1615032930895826946?s=20&t=_NU3avUaQ0FnWhXiiOtnzQ-->
 <!-- rip Twitter AKA non-rate limited social media 𝕏 -->
 <!---->
 
 
-
-
-<!-- Just in case anyone steals this, this is my short story. I created it from scratch. If someone else says they made it, they're lying (see the timestamp this commit was added to my website comments)
-
-
-
-
-
-Unfortunately, a new (up to 8 years old … but still, this is comparatively short relative to the start of the computing world around the 1960s debatable maybe not) feature, that is only built into Windows, which will *definitely* make you weep with repent if you're not a Windows user. Look away everyone else, you will instantly switch to Windows 10 or above and make the Windows company a de-facto real monopoly except for that one person (since duopolies don't count in the general capitalist world for some reason). Lo and behold, say it with me:
-
-WINDOWS
-*asdpojsadijdsfoidsjfdsoijfso*
-
-control
-*the world descents into a monochromatic abyss*
-
-shift
-*everything slowly draws hued green in your presence as you fear: "what's the next move," are they going for my cat next, is Joe Biden in my basement?*
-
-alt
-*reality visually becomes 4-dimensional and you question, wtf. I think I have a virus. I think Windows is the virus. What if corona (not to be mistaken with Cortana) was actually Windows all along. Why am I here? Is this the alternate universe? Nervana? Jang? Hell? This dimension.. was not meant to be seen…. as I return to the beautiful natural milky way.*
-
-L
-*bruh what is this letter. I feel like I'm gonna lose everything*
-
-*LinkedIn opens*
-
-
--- end of story completely complete regularness --
-Just a regular story, no discordant tumult; void of replete surreal.
-
-
-
-
-
--->
